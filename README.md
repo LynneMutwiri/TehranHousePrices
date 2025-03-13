@@ -12,3 +12,13 @@ This project analyzes house prices in Tehran, Iran, using various data science t
 
 * Evaluate model performance and interpret findings.
 
+## Machine Learning Models Used
+
+* Linear Regression
+
+* Random Forest
+
+* Gradient Boosting (XGBoost)
+
+* Support Vector Regressor
+
